@@ -7,3 +7,8 @@ Click "Settings" tab
 Click "Pages" in the left menu
 Under "Branch" select "main" → click "Save"
 Wait 1 minute → your site is live at:
+
+
+
+Internal Maintenance Tracking Tool – Country Inn & Suites PDX – For team use only”
+“Internal Maintenance Tracker – PDX” Or “Team Maintenance Dashboard”
